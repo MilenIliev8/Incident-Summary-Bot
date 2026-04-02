@@ -1,0 +1,4 @@
+slack-bolt
+openai
+python-docx
+requests
